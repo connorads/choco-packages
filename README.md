@@ -25,3 +25,7 @@ Here's a quick way to install Chocolatey on Windows 10
 
 4. *(Optional)* Refresh environment variables for current session  
    `refreshenv`
+
+#### Upgrade all choco packages
+
+`choco upgrade all -y`
