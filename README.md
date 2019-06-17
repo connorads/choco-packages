@@ -11,7 +11,7 @@ If you already have Chocolatey installed
 
 Here's a quick way to install Chocolatey on Windows 10
 
-1.  Open PowerShell (Admin)  
+1. Open PowerShell (Admin)  
    <kbd>win</kbd> + <kbd>x</kbd> , then press <kbd>a</kbd>
 
 2. From PowerShell, open Command Prompt (Admin)  
