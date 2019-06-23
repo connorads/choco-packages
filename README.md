@@ -1,13 +1,23 @@
 # choco-packages
 @connorads favourite Chocolatey packages 🍫
 
-#### Install choco packages
+## Install choco packages
 
 If you already have Chocolatey installed
 
 `choco install packages.config -y`
 
-#### Install choco
+## Upgrade choco packages
+
+To list all installed packages that can be upgraded
+
+`choco upgrade all --noop`
+
+To upgrade all installed packages
+
+`choco upgrade all -y`
+
+## Install choco
 
 Here's a quick way to install Chocolatey on Windows 10
 
@@ -25,13 +35,3 @@ Here's a quick way to install Chocolatey on Windows 10
 
 4. *(Optional)* Refresh environment variables for current session  
    `refreshenv`
-
-#### Upgrade choco packages
-
-To list all installed packages that can be upgraded
-
-`choco upgrade all --noop`
-
-To upgrade all installed packages
-
-`choco upgrade all -y`
