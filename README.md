@@ -1,5 +1,6 @@
 # choco-packages
-@connorads favourite Chocolatey packages 🍫
+
+[@connorads](https://github.com/connorads) favourite [Chocolatey](https://chocolatey.org) packages 🍫
 
 ## Install choco packages
 
