@@ -2,6 +2,8 @@
 
 [@connorads](https://github.com/connorads) favourite [Chocolatey](https://chocolatey.org) packages 🍫
 
+Install and/or update all your favourite Windows software using a few commands
+
 ## Install choco packages
 
 If you already have Chocolatey installed
