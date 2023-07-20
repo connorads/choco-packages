@@ -8,17 +8,23 @@ Install and/or update all your favourite Windows software using a few commands
 
 If you already have Chocolatey installed
 
-`choco install packages.config -y`
+```sh
+choco install packages.config -y
+```
 
 ## Upgrade choco packages
 
 To list all installed packages that can be upgraded
 
-`choco upgrade all --noop`
+```sh
+choco upgrade all --noop
+```
 
 To upgrade all installed packages
 
-`choco upgrade all -y`
+```sh
+choco upgrade all -y
+```
 
 ## Install choco
 
